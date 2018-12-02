@@ -1,3 +1,1 @@
-module.exports = selector => {
-	return /(?![^[]*])\*/.test(selector)
-}
+module.exports = selector => /(?![^[]*])\*/.test(selector)
