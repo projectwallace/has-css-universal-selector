@@ -1,0 +1,40 @@
+{
+  "name": "has-css-universal-selector",
+  "version": "0.1.0",
+  "description": "A test to determine wether a selector contains a universal selector (`*`)",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "repository": "bartveneman/has-css-universal-selector",
+  "keywords": [
+    "css",
+    "selector",
+    "universal",
+    "check",
+    "test",
+    "assert",
+    "analyzer",
+    "complexity",
+    "projectwallace",
+    "wallace"
+  ],
+  "author": "Bart Veneman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bartveneman/has-css-universal-selector/issues"
+  },
+  "homepage": "https://www.projectwallace.com/oss",
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "prettier": "^1.15.2",
+    "xo": "^0.23.0"
+  },
+  "xo": {
+    "semicolon": false,
+    "prettier": true
+  }
+}
