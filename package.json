@@ -1,6 +1,6 @@
 {
   "name": "has-css-universal-selector",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A test to determine wether a selector contains a universal selector (`*`)",
   "main": "index.js",
   "scripts": {
